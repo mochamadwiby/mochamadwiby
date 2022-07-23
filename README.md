@@ -1,6 +1,6 @@
 ## Hello there, I'm Adam 👋
 
-Senior programmer c++ from Indonesia
+Programmer from Indonesia
 
 ### Tools that i use:
 
