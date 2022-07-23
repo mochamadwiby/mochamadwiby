@@ -17,11 +17,3 @@ Senior programmer c++ from Indonesia
 <br>
 <br>
   </div>
-
-### Some stats maybe
-
-<div align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=Reynadi531&theme=radical&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=Reynadi531&show_icons=true&theme=dark" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reynadi531&layout=compact&theme=dark" />
-</div>
