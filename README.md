@@ -1,6 +1,7 @@
 # Hello there, I'm Adam 👋
 
-FullStack Programmer from Indonesia
+Full Stack Developer from Indonesia.
+nice to meet you ☕.
 
 ## Tools that i use:
 
