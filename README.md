@@ -1,8 +1,8 @@
-## Hello there, I'm Adam 👋
+# Hello there, I'm Adam 👋
 
-Programmer from Indonesia
+FullStack Programmer from Indonesia
 
-### Tools that i use:
+## Tools that i use:
 
 <div>
 <img alt="Visual Studio Code" width="40px" src="./img/vscode.svg" />
