@@ -1,7 +1,7 @@
-# Hello there, I'm Adam 👋
+# Hi, I'm Mochamad Wiby Erton Firmanda 👋
 
-<a>Full Stack Developer from Indonesia</a>
-<p>nice to meet you ☕.</p>
+<a>Network Engineer from Indonesia</a>
+
 
 ## Tools that i use:
 
@@ -11,6 +11,7 @@
 <img alt="HTML5" width="40px" src="./img/html5.svg" />
 <img alt="CSS3" width="40px" src="./img/css3.svg" />
 <img alt="JavaScript" width="40px" src="./img/javascript.svg" />
+<img alt="Mikrotik" width="40px" src="./img/mikrotik.svg" />
 <img alt="Git" width="40px" src="./img/git.svg" />
 <img alt="GitHub" width="40px" src="./img/github.svg" />
 <img alt="Terminal" width="40px" src="./img/terminal.png" />
